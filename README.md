@@ -1,3 +1,19 @@
+# KHOJ-FORK
+
+## Origine
+- Fork de : **Khoj**
+- Auteur : khoj-ai
+- Dépôt d'origine : https://github.com/khoj-ai/khoj
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+AGPL 3.0, inchangée dans le fichier LICENSE.
+
+---
+
 <p align="center"><img src="https://assets.khoj.dev/khoj-logo-sideways-1200x540.png" width="230" alt="Khoj Logo"></p>
 
 <div align="center">
